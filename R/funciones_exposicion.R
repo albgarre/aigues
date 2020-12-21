@@ -3,7 +3,7 @@
 #'
 #' @param ZIP_model un modelo ZIP (ver \code{\link{ajustar_ZIP}}).
 #' @param Days numero de dias incluido en la simulacion.
-#' @param Rain_days Numero de días de lluvia durante la simulación.
+#' @param Rain_Days Numero de días de lluvia durante la simulación.
 #' @param sun_hrs_mode Moda del número de horas de sol por día.
 #' @param irrigation_type Tipo de irrigacion (normal, goteo o noSplashing).
 #' @param n_sims numero de simulaciones de Monte Carlo (1000 by default).
